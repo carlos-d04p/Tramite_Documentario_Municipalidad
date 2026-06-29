@@ -105,3 +105,15 @@ Una vez completado todo, la aplicación estará disponible en el puerto `80` (HT
 Asegúrate de que tu máquina virtual Debian tenga abiertos los siguientes puertos en su firewall (UFW o iptables):
 * **80 / 443**: Para el tráfico web de la aplicación (Apache).
 * **9001**: Para la conexión de WebSockets de notificaciones (Mosquitto WS).
+
+
+---
+
+## ⚖️ Créditos y Licencia
+
+> 💡 **Nota de Autoría y Modificación:** > Este sistema es una versión **modificada, personalizada y adaptada** por **Carlos** (@carlos-d04p) para optimizar el **Trámite Documentario de la Municipalidad V**.
+
+* **Proyecto Original:** El software base y su estructura inicial fueron desarrollados originalmente por `Daniel Jimenez Jerez - djimenezjerez`.
+* **Licencia:** Al ser un derivado de un proyecto de código abierto, este sistema se distribuye bajo la licencia **GNU General Public License v3 (GPL v3)**. Puedes consultar los términos completos en el archivo `LICENSE` incluido en este repositorio.
+
+---
