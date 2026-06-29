@@ -1,0 +1,44 @@
+.datatables {
+    border-collapse: collapse !important;
+    width: 100% !important;
+}
+
+.datatables td, .datatables th {
+    border: 1px solid #ccc !important;
+    border-top: 1px solid #000 !important;
+    border-bottom: 1px solid #000 !important;
+    font-size: 0.7vw !important;
+    min-height: 0.4vh;
+}
+
+.datatables tbody tr {
+    height: 6vh !important;
+}
+
+.datatables tbody tr:nth-child(odd) {
+    background-color: #f8f9fa !important;
+}
+
+.datatables tbody tr:nth-child(even) {
+    background-color: #e9ecef !important;
+}
+
+.datatables tbody tr:hover {
+    background:#6c757d !important;
+    color: #fff !important;
+}
+
+.datatables th {
+    background-color: #666;
+    color: #fff !important;
+}
+
+.v-icon {
+    font-size: 1vw !important;
+}
+
+.text-responsive {
+    font-size: 0.7vw !important;
+    margin: 0;
+    padding: 0;
+}
